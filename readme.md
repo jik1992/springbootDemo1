@@ -11,3 +11,19 @@ brew install springboot
 spring run app.groovy
 ```
 5. enjoy it!
+
+
+
+###push online 
+```
+mvn package
+```
+```
+java -jar target.jar
+```
+
+###springboot cli
+```
+spring init --list
+```
+
